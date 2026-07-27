@@ -1,0 +1,12 @@
+# Secrets
+access_token.txt
+.env
+
+# Trade logs / generated data
+tradebook*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
